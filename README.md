@@ -2,7 +2,7 @@
 
 ## Description
 
-"The titanic was a famous passenger ship that tragically sunk in the middle of the ocean during its maiden voyage, leading to the death of majority of passengers on board." - ***Kaggle***
+The titanic was a famous passenger ship that tragically sunk in the middle of the ocean during its maiden voyage, leading to the death of majority of passengers on board. "While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others." - ***Kaggle***
 
 ## Objective
 
